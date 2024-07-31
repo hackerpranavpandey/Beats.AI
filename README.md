@@ -23,13 +23,17 @@ Pandas
 Scikit-Learn(Random Forest Regressor)
 Latex
 Matplotlib
+Tesnsorflow
 
 ## How to Use
 
 To use the Heart Rate Prediction Model, follow these steps:
-Start by cloning the repository and downloading all necessary files, including beatai.py, run.py, and the relevant CSV data files into your local directory. 
-With beatai.py, you can effortlessly train a sophisticated random forest model using given train_data.csv file. This process results in the creation of a joblib file, encapsulating trained model. 
-Once the model is trained, run.py comes into play. This script is adeptly crafted to utilize the trained model for predicting outcomes based on sample_test_data.csv. 
+Start by cloning the repository and downloading all necessary files, including beatai.py, run.py, and the relevant CSV data files into your local directory.
+
+With beatai.py, you can effortlessly train a sophisticated random forest model using given train_data.csv file. This process results in the creation of a joblib file, encapsulating trained model.
+
+Once the model is trained, run.py comes into play. This script is adeptly crafted to utilize the trained model for predicting outcomes based on sample_test_data.csv.
+
 The predictions are conveniently saved in a result.csv file, ensuring easy access and analysis. 
 
 ## Conclusion
