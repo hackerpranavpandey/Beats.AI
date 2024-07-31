@@ -1,4 +1,5 @@
 # Beats.AI
+This project was part of PARSEC which is techfest at IIT Dharwad.
 
 Welcome to Beats.AI, an intuitive and efficient solution for training random forest models and generating predictions from your datasets. Our user-friendly tool is designed to streamline your data analysis and predictive modeling tasks
 
